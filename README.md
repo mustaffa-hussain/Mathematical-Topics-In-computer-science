@@ -1,2 +1,2 @@
 # MTCS
-These codes where done when I was in masters first year as part of course work. 
+The codes cover few of the matheatical concepts used in computer science
