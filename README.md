@@ -1,2 +1,2 @@
-# roots-of-functions
-A sample code written in Matlab to find Root of the given funtion by line search method
+# MTCS
+These codes where done when I was in masters first year as part of course work. 
