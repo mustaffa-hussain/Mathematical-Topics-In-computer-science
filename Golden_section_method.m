@@ -24,10 +24,10 @@ while( (b-a) > epsilon )
          x2 = a + g_ratio*(b -a);
     end
     
-    str = ['New interval: [',num2str(a),' <-> ',num2str(b),']'];
+    str = ['New interval: [',num2str(a),' , ',num2str(b),']'];
     disp(str);    
     
 end
 
-str = ['Approximate solution = ',num2str((a+b)/2)];
+str = ['solution = ',num2str((a+b)/2)];
 disp(str);
