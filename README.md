@@ -1,2 +1,2 @@
 # MTCS
-The codes cover few of the matheatical concepts used in computer science
+The codes cover few of the mathematical concepts used in computer science
